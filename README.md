@@ -6,4 +6,4 @@ The Covid Chase Project:
 An Arcade Game written with System Verilog in Quartus, designed to run on Intel's FPGA board.
 
 Mamat:
-A selection of C++ and Assembly assigments done on "Mamat" course(Introduction to software systems).
+A selection of C++ assigments done on "Mamat" course(Introduction to software systems).
